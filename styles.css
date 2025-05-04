@@ -15,10 +15,15 @@
 			font-size: 17px;
 			
 		}
-		
-		p {
+
+		p1 {
 			font-family: "Arial";
 			font-size: 20px;
+		}
+
+		p2 {
+			font-family: "Arial";
+			font-size: 10px;
 		}
 
 	footer {
