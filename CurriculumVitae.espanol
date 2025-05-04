@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang ="es">
+    <head>
+body {
+			background-color: white;
+	      
+		}
+
+		h1 {
+			color: #DAA520; 
+			text-align: left;
+			
+		}
+		h2 {
+			text-align: left;
+			font-size: 17px;
+			
+		}
+		
+		p {
+			font-family: "Arial";
+			font-size: 20px;
+		}
+	 	</style>
+
+    </head>
+    <body> 
+    <h1> Hallo und Willkomen!:) </h1>
+<p>Mein Name ist Larissa Lynette Gardea Sáenz</p>
+<p>Ich bin Mechatronikerin von Beruf und heutzutage wohne in Aachen, Deutschland. Nichtsdestotrotz bin ich bereit, umzuziehen.</p>
+<h1>Fremdsprachen:</h1>
+<p>Spanisch: Muttersprache.</p>
+<body>
+  </html>
+    
