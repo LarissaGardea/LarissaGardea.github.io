@@ -14,15 +14,15 @@
 	}
 	header { 
 		grid-area: head; 
-		background-color: lightsalmon; 
+		background-color: white; 
 	       }
 	.nav-bar {
 		grid-area: nav; 
-		background-color: lightblue; 
+		background-color: white; 
 		} 
 	main {
 		grid-area: main; 
-		background-color: lightyellow; 
+		background-color: white; 
 	     }
 	footer {
 		grid-area: footer; 
