@@ -27,7 +27,7 @@
 		background-color: white;
 		text-align: center;
 	     }
-@media (max-width: 768px) {
+
 	footer {
 		grid-area: footer; 
 		background-color: firebrick; 
@@ -42,7 +42,7 @@
   		justify-content: space-between;
   		gap: 20px;
   		padding: 40px 20px;}
-		}
+		
 	h1 {
 		color: #DAA520; 
 		text-align: center;
