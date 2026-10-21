@@ -37,7 +37,11 @@
 		color: #ffffff;
         flex-direction: column;
         text-align: center;
-  }
+		display: flex;
+  		flex-wrap: wrap;
+  		justify-content: space-between;
+  		gap: 20px;
+  		padding: 40px 20px;}
 		}
 	h1 {
 		color: #DAA520; 
