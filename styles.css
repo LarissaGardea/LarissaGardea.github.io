@@ -27,6 +27,7 @@
 		background-color: white;
 		text-align: center;
 	     }
+@media (max-width: 768px) {
 	footer {
 		grid-area: footer; 
 		background-color: firebrick; 
@@ -34,6 +35,9 @@
 		padding: 10px 0;
 		background: #35424a;
 		color: #ffffff;
+        flex-direction: column;
+        text-align: center;
+  }
 		}
 	h1 {
 		color: #DAA520; 
